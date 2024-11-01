@@ -1,8 +1,3 @@
----
-layout: default
-title: "Month 2: Exploratory Data Analysis"
----
-
 # 📅 Month 2: Exploratory Data Analysis
 
 This month, we’ll dive deep into **Exploratory Data Analysis (EDA)** to understand, clean, and prepare data for machine learning. By the end, you’ll be able to derive insights and identify patterns from raw data.
