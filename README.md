@@ -2,8 +2,6 @@
 
 Welcome to the **AI Bootcamp Series**! Over the next year, we’ll be diving deep into AI, machine learning, and data science with a structured month-by-month curriculum. Each month focuses on a new set of skills and builds up with hands-on projects, exercises, and real-world applications. Let’s master AI together!
 
-🌐 **GitHub Page:** [https://ascaorigin.github.io/](https://ascaorigin.github.io/)
-
 ---
 
 ## 📅 Explore Each Month's Syllabus
